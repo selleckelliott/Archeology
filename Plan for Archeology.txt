@@ -1,0 +1,20 @@
+Goal: 
+
+Create an app that allows the user to get archeological news in one location.
+ - Allow user to filter by continent, region, or country.
+ - Allow user to filter by civilization.
+ - Allow user to translate.
+ - Allow user to save or favorite an article.
+ - Allow user to share article.
+
+Requirements:
+
+Needs to scrape from the entire web.
+Needs to present headlines and then the full article.
+
+Potential options:
+
+Allow user to subscribe to academic journals through the app (possible upsell.)
+ - Allow user to input their own credentials to log into academic journals.
+
+Upsell archeology templates.
