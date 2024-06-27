@@ -5,6 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Net.Http;
+using Microsoft.Playwright;
+using System.ServiceModel.Syndication;
+using System.Xml;
 using static System.Net.WebRequestMethods;
 
 namespace Archeology
@@ -47,37 +50,42 @@ namespace Archeology
             }
 
             //Get link to full article
-            var aricleLinkNode = mainPageDocument.DocumentNode.SelectSingleNode("//a[contains(@class, 'article-nam')]");
+            var aricleLinkNode = mainPageDocument.DocumentNode.SelectSingleNode("//a[contains(@class, 'article-link')]");
             if (aricleLinkNode != null)
             {
                 var articleUrl = aricleLinkNode.GetAttributeValue("href", string.Empty);
                 if (!string.IsNullOrEmpty(articleUrl))
                 {
                     //Absolute url
-                    if (!Uri.IsWellFormedUriString(articleUrl, UriKind.Absolute))
-                    {
-                        articleUrl = new Uri(new Uri(mainPageUrl), articleUrl).ToString();
-                    }
+                    /* if (!Uri.IsWellFormedUriString(articleUrl, UriKind.Absolute))
+                     {
+                         articleUrl = new Uri(new Uri(mainPageUrl), articleUrl).ToString();
+                     }*/
                     //Article page request
-                    var articleHtml = await httpClient.GetStringAsync(articleUrl);
+                    var articleHtml = httpClient.GetStringAsync(articleUrl).Result;
                     var articleDoc = new HtmlDocument();
                     articleDoc.LoadHtml(articleHtml);
-                }
 
-                //Get Editor's pick article link
-                var editorsPickArticle = mainPageDocument.DocumentNode.SelectSingleNode("//div[contains(@class, 'article-body')]");
-                if (editorsPickArticle != null)
-                {
-                    var paragraphs = editorsPickArticle.SelectNodes(".//p");
-                    foreach (var paragraph in paragraphs)
+                    // Select all <p> elements within the article body
+                    var paragraphNodes = articleDoc.DocumentNode.SelectNodes("//*[@id='article-body']//p");
+
+                    // Check if there are any paragraphs found
+                    if (paragraphNodes != null)
                     {
-                        Console.WriteLine(paragraph.InnerText.Trim());
-                        Console.WriteLine();
+                        foreach (var paragraph in paragraphNodes)
+                        {
+                            // Filter out paragraphs that contain only text (no nested HTML tags)
+                            //if (paragraph.ChildNodes.All(node => node.InnerHtml.StartsWith("<p>")))
+                            //{
+                                // Print each paragraph's inner text
+                                Console.WriteLine(paragraph.InnerText.Trim() + "\n\n");
+                            //}
+                        }
                     }
-                }
-                else
-                {
-                    Console.WriteLine("Article Content Not Found");
+                    else
+                    {
+                        Console.WriteLine("No paragraphs found in the article body.");
+                    }
                 }
             }
             else
