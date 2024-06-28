@@ -17,3 +17,4 @@ C:\Users\annav\OneDrive\Desktop\Repos\Archeology\Archeology\obj\Debug\net8.0\ref
 C:\Users\annav\OneDrive\Desktop\Repos\Archeology\Archeology\obj\Debug\net8.0\Archeology.pdb
 C:\Users\annav\OneDrive\Desktop\Repos\Archeology\Archeology\obj\Debug\net8.0\Archeology.genruntimeconfig.cache
 C:\Users\annav\OneDrive\Desktop\Repos\Archeology\Archeology\obj\Debug\net8.0\ref\Archeology.dll
+C:\Users\annav\OneDrive\Desktop\Repos\Archeology\Archeology\bin\Debug\net8.0\System.ServiceModel.Syndication.dll

@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{41FCBB6B-AA36-40CE-A04E-9620AAF9C7D9}|Archeology\\Archeology.csproj|c:\\users\\annav\\onedrive\\desktop\\repos\\archeology\\archeology\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41FCBB6B-AA36-40CE-A04E-9620AAF9C7D9}|Archeology\\Archeology.csproj|solutionrelative:archeology\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FCBB6B-AA36-40CE-A04E-9620AAF9C7D9}|Archeology\\Archeology.csproj|c:\\users\\annav\\onedrive\\desktop\\repos\\archeology\\archeology\\livesciencerss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41FCBB6B-AA36-40CE-A04E-9620AAF9C7D9}|Archeology\\Archeology.csproj|solutionrelative:archeology\\livesciencerss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LiveScienceRss.cs",
+              "DocumentMoniker": "C:\\Users\\annav\\OneDrive\\Desktop\\Repos\\Archeology\\Archeology\\LiveScienceRss.cs",
+              "RelativeDocumentMoniker": "Archeology\\LiveScienceRss.cs",
+              "ToolTip": "C:\\Users\\annav\\OneDrive\\Desktop\\Repos\\Archeology\\Archeology\\LiveScienceRss.cs",
+              "RelativeToolTip": "Archeology\\LiveScienceRss.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAowFYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:41:10.909Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -32,7 +49,7 @@
               "RelativeDocumentMoniker": "Archeology\\LiveScienceWebScrape.cs",
               "ToolTip": "C:\\Users\\annav\\OneDrive\\Desktop\\Repos\\Archeology\\Archeology\\LiveScienceWebScrape.cs",
               "RelativeToolTip": "Archeology\\LiveScienceWebScrape.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAUwFYAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-26T03:31:04.561Z",
               "EditorCaption": ""
@@ -45,7 +62,7 @@
               "RelativeDocumentMoniker": "Archeology\\Program.cs",
               "ToolTip": "C:\\Users\\annav\\OneDrive\\Desktop\\Repos\\Archeology\\Archeology\\Program.cs",
               "RelativeToolTip": "Archeology\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-25T04:14:12.48Z",
               "EditorCaption": ""
