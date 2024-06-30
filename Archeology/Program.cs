@@ -11,6 +11,8 @@ internal class Program
     private static void Main(string[] args)
     {
         //LiveScienceRss.LiveScienceRssFeed();
-        LiveScienceWebScrape.LiveScience();
+        //LiveScienceWebScrape.LiveScience();
+        XMLFileParser parser = new XMLFileParser("https://www.livescience.com/feeds/all");
+        Console.WriteLine(parser.ToString());
     }
 }

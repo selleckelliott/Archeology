@@ -1,0 +1,15 @@
+C:\Users\annav\OneDrive\Desktop\Repos\Archeology\XMLTester\bin\Debug\net8.0\XMLTester.exe
+C:\Users\annav\OneDrive\Desktop\Repos\Archeology\XMLTester\bin\Debug\net8.0\XMLTester.deps.json
+C:\Users\annav\OneDrive\Desktop\Repos\Archeology\XMLTester\bin\Debug\net8.0\XMLTester.runtimeconfig.json
+C:\Users\annav\OneDrive\Desktop\Repos\Archeology\XMLTester\bin\Debug\net8.0\XMLTester.dll
+C:\Users\annav\OneDrive\Desktop\Repos\Archeology\XMLTester\bin\Debug\net8.0\XMLTester.pdb
+C:\Users\annav\OneDrive\Desktop\Repos\Archeology\XMLTester\obj\Debug\net8.0\XMLTester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annav\OneDrive\Desktop\Repos\Archeology\XMLTester\obj\Debug\net8.0\XMLTester.AssemblyInfoInputs.cache
+C:\Users\annav\OneDrive\Desktop\Repos\Archeology\XMLTester\obj\Debug\net8.0\XMLTester.AssemblyInfo.cs
+C:\Users\annav\OneDrive\Desktop\Repos\Archeology\XMLTester\obj\Debug\net8.0\XMLTester.csproj.CoreCompileInputs.cache
+C:\Users\annav\OneDrive\Desktop\Repos\Archeology\XMLTester\obj\Debug\net8.0\XMLTester.sourcelink.json
+C:\Users\annav\OneDrive\Desktop\Repos\Archeology\XMLTester\obj\Debug\net8.0\XMLTester.dll
+C:\Users\annav\OneDrive\Desktop\Repos\Archeology\XMLTester\obj\Debug\net8.0\refint\XMLTester.dll
+C:\Users\annav\OneDrive\Desktop\Repos\Archeology\XMLTester\obj\Debug\net8.0\XMLTester.pdb
+C:\Users\annav\OneDrive\Desktop\Repos\Archeology\XMLTester\obj\Debug\net8.0\XMLTester.genruntimeconfig.cache
+C:\Users\annav\OneDrive\Desktop\Repos\Archeology\XMLTester\obj\Debug\net8.0\ref\XMLTester.dll
