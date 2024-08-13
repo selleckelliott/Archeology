@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D8DGYxwr5kM=",
+  "dgSpecHash": "fdaZxpvTM8c=",
   "success": true,
-  "projectFilePath": "C:\\Users\\annav\\OneDrive\\Desktop\\Repos\\Archeology\\Archeology\\Archeology.csproj",
+  "projectFilePath": "C:\\Users\\annav\\Desktop\\Repos\\Archeology\\Archeology\\Archeology.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\annav\\.nuget\\packages\\htmlagilitypack\\1.11.61\\htmlagilitypack.1.11.61.nupkg.sha512",
     "C:\\Users\\annav\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
