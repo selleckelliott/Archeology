@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\annav\\OneDrive\\Desktop\\Repos\\Archeology\\Archeology\\Archeology.csproj": {}
+    "C:\\Users\\annav\\Desktop\\Repos\\Archeology\\Archeology\\Archeology.csproj": {}
   },
   "projects": {
-    "C:\\Users\\annav\\OneDrive\\Desktop\\Repos\\Archeology\\Archeology\\Archeology.csproj": {
+    "C:\\Users\\annav\\Desktop\\Repos\\Archeology\\Archeology\\Archeology.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\annav\\OneDrive\\Desktop\\Repos\\Archeology\\Archeology\\Archeology.csproj",
+        "projectUniqueName": "C:\\Users\\annav\\Desktop\\Repos\\Archeology\\Archeology\\Archeology.csproj",
         "projectName": "Archeology",
-        "projectPath": "C:\\Users\\annav\\OneDrive\\Desktop\\Repos\\Archeology\\Archeology\\Archeology.csproj",
+        "projectPath": "C:\\Users\\annav\\Desktop\\Repos\\Archeology\\Archeology\\Archeology.csproj",
         "packagesPath": "C:\\Users\\annav\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\annav\\OneDrive\\Desktop\\Repos\\Archeology\\Archeology\\obj\\",
+        "outputPath": "C:\\Users\\annav\\Desktop\\Repos\\Archeology\\Archeology\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\annav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -75,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
