@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Archeology")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a573b77184a3dd03712d1d8f3f38bf5b08c17c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edad485c0268b0eb04f98d7b93649cd34bf59c02")]
 [assembly: System.Reflection.AssemblyProductAttribute("Archeology")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Archeology")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
