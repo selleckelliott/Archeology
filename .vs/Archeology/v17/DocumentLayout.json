@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{41FCBB6B-AA36-40CE-A04E-9620AAF9C7D9}|Archeology\\Archeology.csproj|solutionrelative:archeology\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41FCBB6B-AA36-40CE-A04E-9620AAF9C7D9}|Archeology\\Archeology.csproj|c:\\users\\annav\\desktop\\repos\\archeology\\archeology\\xmlfileparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41FCBB6B-AA36-40CE-A04E-9620AAF9C7D9}|Archeology\\Archeology.csproj|solutionrelative:archeology\\xmlfileparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{41FCBB6B-AA36-40CE-A04E-9620AAF9C7D9}|Archeology\\Archeology.csproj|c:\\users\\annav\\desktop\\repos\\archeology\\archeology\\livesciencerss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41FCBB6B-AA36-40CE-A04E-9620AAF9C7D9}|Archeology\\Archeology.csproj|solutionrelative:archeology\\livesciencerss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FCBB6B-AA36-40CE-A04E-9620AAF9C7D9}|Archeology\\Archeology.csproj|c:\\users\\annav\\desktop\\repos\\archeology\\archeology\\xmlfileparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41FCBB6B-AA36-40CE-A04E-9620AAF9C7D9}|Archeology\\Archeology.csproj|solutionrelative:archeology\\xmlfileparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41FCBB6B-AA36-40CE-A04E-9620AAF9C7D9}|Archeology\\Archeology.csproj|c:\\users\\annav\\desktop\\repos\\archeology\\archeology\\tags\\channel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "XMLFileParser.cs",
               "DocumentMoniker": "C:\\Users\\annav\\Desktop\\Repos\\Archeology\\Archeology\\XMLFileParser.cs",
               "RelativeDocumentMoniker": "Archeology\\XMLFileParser.cs",
@@ -78,15 +78,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "LiveScienceRss.cs",
               "DocumentMoniker": "C:\\Users\\annav\\Desktop\\Repos\\Archeology\\Archeology\\LiveScienceRss.cs",
               "RelativeDocumentMoniker": "Archeology\\LiveScienceRss.cs",
               "ToolTip": "C:\\Users\\annav\\Desktop\\Repos\\Archeology\\Archeology\\LiveScienceRss.cs",
               "RelativeToolTip": "Archeology\\LiveScienceRss.cs",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAowFEAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T18:41:10.909Z"
+              "WhenOpened": "2024-06-27T18:41:10.909Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -108,7 +109,7 @@
               "RelativeDocumentMoniker": "Archeology\\Program.cs",
               "ToolTip": "C:\\Users\\annav\\Desktop\\Repos\\Archeology\\Archeology\\Program.cs",
               "RelativeToolTip": "Archeology\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-25T04:14:12.48Z",
               "EditorCaption": ""
